@@ -1,4 +1,4 @@
-# pogect
+# progect
 tg bot
 import telebot   
 bot = telebot.TeleBot("")    
